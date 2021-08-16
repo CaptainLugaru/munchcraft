@@ -261,3 +261,8 @@ tags
 /.idea/.gitignore
 /.idea/codeStyles/Project.xml
 /.idea/codeStyles/codeStyleConfig.xml
+/gradlew.bat
+/.project
+/.classpath
+/run/
+/.mcreator/
