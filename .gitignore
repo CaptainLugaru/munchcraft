@@ -171,6 +171,9 @@ gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+!gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
 
 # Cache of project
 .gradletasknamecache
@@ -258,3 +261,8 @@ tags
 /.idea/.gitignore
 /.idea/codeStyles/Project.xml
 /.idea/codeStyles/codeStyleConfig.xml
+/gradlew.bat
+/.project
+/.classpath
+/run/
+/.mcreator/
