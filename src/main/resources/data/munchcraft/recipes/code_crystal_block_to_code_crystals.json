@@ -1,0 +1,16 @@
+{
+  "group": "munchcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "munchcraft:code_crystal_block"
+    }
+  },
+  "result": {
+    "item": "munchcraft:code_crystal",
+    "count": 9
+  }
+}

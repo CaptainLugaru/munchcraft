@@ -1,0 +1,42 @@
+{
+  "group": "munchcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "munchcraft:code_crystal"
+    },
+    "1": {
+      "item": "munchcraft:code_crystal"
+    },
+    "2": {
+      "item": "munchcraft:code_crystal"
+    },
+    "3": {
+      "item": "munchcraft:code_crystal"
+    },
+    "4": {
+      "item": "munchcraft:code_crystal"
+    },
+    "5": {
+      "item": "munchcraft:code_crystal"
+    },
+    "6": {
+      "item": "munchcraft:code_crystal"
+    },
+    "7": {
+      "item": "munchcraft:code_crystal"
+    },
+    "8": {
+      "item": "munchcraft:code_crystal"
+    }
+  },
+  "result": {
+    "item": "munchcraft:code_crystal_block",
+    "count": 1
+  }
+}

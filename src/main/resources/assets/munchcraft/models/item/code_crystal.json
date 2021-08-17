@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "munchcraft:items/code_crystal"
+  }
+}

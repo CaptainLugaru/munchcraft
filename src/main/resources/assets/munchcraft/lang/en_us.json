@@ -1,1 +1,6 @@
-{}
+{
+  "block.munchcraft.code_crystal_ore": "Code Crystal Ore",
+  "item.munchcraft.code_crystal": "Code Crystal",
+  "block.munchcraft.code_crystal_block": "Code Crystal Block",
+  "itemGroup.tabcode_crystal_tab": "Code Crystal Tab"
+}

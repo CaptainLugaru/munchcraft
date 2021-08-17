@@ -1,10 +1,79 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "CodeCrystalBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code_crystal_block"
+    },
+    {
+      "name": "CodeCrystalOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code_crystal_ore"
+    },
+    {
+      "name": "CodeCrystal",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code_crystal"
+    },
+    {
+      "name": "CodeCrystalTab",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code_crystal_tab"
+    },
+    {
+      "name": "SmeltingCodeCrystalOreToCodeCrystals",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelting_code_crystal_ore_to_code_crystals"
+    },
+    {
+      "name": "CodeCrystalBlockRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code_crystal_block_recipe"
+    },
+    {
+      "name": "CodeCrystalBlockToCodeCrystals",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code_crystal_block_to_code_crystals"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.munchcraft.code_crystal_ore": "Code Crystal Ore",
+      "item.munchcraft.code_crystal": "Code Crystal",
+      "block.munchcraft.code_crystal_block": "Code Crystal Block",
+      "itemGroup.tabcode_crystal_tab": "Code Crystal Tab"
+    }
   },
   "foldersRoot": {
     "name": "~",
