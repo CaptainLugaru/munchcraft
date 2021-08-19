@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Code Crystal Tab",
+    "icon": {
+      "value": "CUSTOM:CodeCrystal"
+    },
+    "showSearch": false
+  }
+}
