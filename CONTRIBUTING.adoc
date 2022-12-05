@@ -1,4 +1,4 @@
-# Contributing to Munchcraft
+= Contributing to Munchcraft
 
 Please fork this repository and code with me! This is the code created in Munchcraft series on Hacker Tales. I appreciate your involvement.
 

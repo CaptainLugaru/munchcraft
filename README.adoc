@@ -1,0 +1,26 @@
+= munchcraft
+
+The *Munchcraft Mod* is a _YouTube Channel Series_ to learn programming with Minecraft modding for *_Young Future Hackers_: Munchkins*.
+
+____
+
+Learning to code through Minecraft modding like Citizen Developers do (pun intended)!
+
+____
+
+== Episodes!
+
+image:channels4_profile.jpeg[Hacker Tales] *Please follow my channel _https://www.youtube.com/channel/UCQHbfQOTapMI3EJdN1fQJPg[Hacker Tales]_!*
+
+=== https://youtu.be/W_PQ9ZA42FE[Hacker Tales - First Minecraft Mod: Step By Step]
+
+____
+
+https://youtu.be/W_PQ9ZA42FE
+
+____
+
+. Download MCreator: https://mcreator.net/download.
+. Install (the OS X instructions are included in https://youtu.be/W_PQ9ZA42FE[this] video).
+. Follow my modding in *https://youtu.be/W_PQ9ZA42FE[this]* video (https://youtu.be/W_PQ9ZA42FE["First Minecraft Mod: Step By Step"]).
+. https://www.jetbrains.com/help/idea/product-educational-tools.html[IntelliJ IDEA Edu] instructions in *https://youtu.be/jmempEy3_JQ[this]* video: https://youtu.be/jmempEy3_JQ["Hacker Tales - Children of Kotlin!"]
