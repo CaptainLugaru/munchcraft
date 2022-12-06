@@ -1,16 +1,10 @@
 = Security Policy
+Captain Lugaru (CaptainLugaru)<72951616+CaptainLugaru@users.noreply.github.com>
+v0.1, Mon 5 Dec 2022 07:53 PM EST
+:description: Security Consideration
+:icons: font
+:keywords: Minecraft Modding Learning Seciroty
+:imagesdir: ./assets/img
+ifdef::env-name[:relfilesuffix: .adoc]
 
-== Supported Versions
-
-Currently, supported Munchcraft Mod versions are:
-
-|===
-|Version |Supported 
-
-|1.0 |:white_check_mark: 
-|0.x |:x: 
-|===
-
-== Reporting a Vulnerability
-
-Should problem be found with this mod please comment on any Munchcraft episode.
+This mod is not supported by myself or any other person, and it comes as is. Learning is the only purpose of this code.
